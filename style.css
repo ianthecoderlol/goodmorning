@@ -1,0 +1,35 @@
+html {
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+  font-family: "Titillium Web";
+  background: rgb(26,25,24);
+  color: rgb(176, 177, 178);
+}
+body {
+  margin: auto;
+  height: 100%;
+}
+#p {
+    text-align: center;
+margin-top: 2.95%;
+  position: relative;
+  /* left: 0%; */
+  /* width: 1%; */
+  font-size: 70px;
+  line-height: 1.18;
+}
+#r {
+  margin-top: -5%;
+  font-size: 40px;
+  text-align: center;
+}
+p {
+  text-align: center;
+}
+#little {
+margin-top: -1.5%;
+}
+#little:hover {
+  cursor: none;
+}
